@@ -287,7 +287,7 @@ GameObject:
   - component: {fileID: 12872158}
   m_Layer: 0
   m_Name: fourth player camera
-  m_TagString: Player
+  m_TagString: EditorOnly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2460,7 +2460,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353259050}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -80, y: 0, z: -80}
+  m_LocalPosition: {x: -80, y: 3, z: -80}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3649,7 +3649,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 644461973}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 34, y: 0.5, z: 23}
+  m_LocalPosition: {x: 34, y: 3.68, z: 23}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 721335498}
@@ -4005,7 +4005,7 @@ GameObject:
   - component: {fileID: 721335499}
   m_Layer: 0
   m_Name: Camera
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5882,7 +5882,7 @@ GameObject:
   - component: {fileID: 963194226}
   m_Layer: 0
   m_Name: first player camera
-  m_TagString: Player
+  m_TagString: EditorOnly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6926,7 +6926,7 @@ PrefabInstance:
     - target: {fileID: 7425933485622009234, guid: 38c0f913b380aed4cb4a08f41e0abce9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -67.45393
+      value: -67.8
       objectReference: {fileID: 0}
     - target: {fileID: 7425933485622009234, guid: 38c0f913b380aed4cb4a08f41e0abce9,
         type: 3}
@@ -8618,7 +8618,7 @@ GameObject:
   - component: {fileID: 1465342498}
   m_Layer: 0
   m_Name: second player camera
-  m_TagString: Player
+  m_TagString: EditorOnly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10895,7 +10895,7 @@ GameObject:
   - component: {fileID: 1900714757}
   m_Layer: 0
   m_Name: third player camera
-  m_TagString: Player
+  m_TagString: EditorOnly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
