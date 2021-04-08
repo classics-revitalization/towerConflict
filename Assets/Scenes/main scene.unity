@@ -291,7 +291,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &12872158
 AudioListener:
   m_ObjectHideFlags: 0
@@ -902,6 +902,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -984,6 +989,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
@@ -1772,6 +1782,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -1940,6 +1955,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wall (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2785619263648833180, guid: 38c0f913b380aed4cb4a08f41e0abce9,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7425933485622009234, guid: 38c0f913b380aed4cb4a08f41e0abce9,
         type: 3}
@@ -3733,6 +3753,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -4152,6 +4177,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -4479,6 +4509,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -4797,6 +4832,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -4879,6 +4919,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
@@ -5460,6 +5505,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -5886,7 +5936,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &963194226
 AudioListener:
   m_ObjectHideFlags: 0
@@ -6102,6 +6152,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
@@ -6899,6 +6954,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -7140,6 +7200,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
@@ -7662,6 +7727,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -8137,6 +8207,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
@@ -8622,7 +8697,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1465342498
 AudioListener:
   m_ObjectHideFlags: 0
@@ -9828,6 +9903,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -10899,7 +10979,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1900714757
 AudioListener:
   m_ObjectHideFlags: 0
@@ -11369,6 +11449,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_Name
@@ -11451,6 +11536,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ab218a1586c9962438dd101022a6a0d6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab218a1586c9962438dd101022a6a0d6,
+        type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab218a1586c9962438dd101022a6a0d6,
